@@ -3,6 +3,6 @@
     class Person
     {
         public int ID { get; set; }
-        public string FullName { get; set; }
+        public string FulName { get; set; }
     }
 }
